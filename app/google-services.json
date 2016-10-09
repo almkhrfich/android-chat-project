@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221035416714",
+    "firebase_url": "https://valiant-realm-133923.firebaseio.com",
+    "project_id": "valiant-realm-133923",
+    "storage_bucket": "valiant-realm-133923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221035416714:android:3ebdbbafafbe299b",
+        "android_client_info": {
+          "package_name": "chat.awadalgarni.example.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221035416714-sqj8og706drajvhvqoenqfir37netba1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.awadalgarni.example.com.myapplication",
+            "certificate_hash": "D464BB2279044F8B6CB9E2F056401336626A268D"
+          }
+        },
+        {
+          "client_id": "221035416714-4237n20kstl1ai1sofcr1dk5jds0o37a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqi-OIT5uwosNJ44DRaQIHayg9k06zF-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221035416714-4237n20kstl1ai1sofcr1dk5jds0o37a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
